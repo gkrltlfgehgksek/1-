@@ -1,0 +1,46 @@
+@charset "utf-8";
+
+header{}
+main{position: relative; width:1920px;
+    #top01{ border:1px solid rgba(255,255,255,0); height:964px; 
+        .ser_menu02{position: absolute; top: 120px; left: 538px;}
+        #banner{position: absolute; top: 214px; left: 538px; right:278px; 
+            width: 100%; height: 429px;
+        }
+        #ser_menu{
+            width:320px; height:795px; margin-left: 7%; margin-top: 113px;}
+        #text{position: relative;
+            .st{position: absolute; bottom:20px; left: 500px; border: 1px solid rgba(255,255,255,0); 
+                transform: scale(80%);}
+            .tt{font-size: 20px; color: #333;
+                .t01{margin-top: 20px;}
+            }
+        }
+    }//end top01
+    #st01{position: relative;
+        ul{ position: absolute; top:-300px; right: 278px;}
+        li{padding-bottom: 20px; line-height: 25px; font-size: 20px;
+           }
+    }//end st01
+    #top02{ padding-top: 130px; border:1px solid red;
+        h3{font-size:40px; font-weight: bold; padding-bottom: 89px;
+           margin-left: 1059px;}
+        // .misson{font-size: 31px; font-weight: bold; mar}
+        // .vison{font-size: 31px; font-weight: bold;}
+        .misson{ margin-left: 565px; padding-bottom: 85px;
+            li{
+            p{font-size: 31px; font-weight: bold;}}
+        }
+        .vison{ margin-left: 565px;
+            li{
+            p{font-size: 31px; font-weight: bold;}}
+        }
+        }//end top02
+        #top03{position: relative; left: 342px; margin-top: 186px;
+            p{font-size:31px; font-weight: bold; margin-left: 190px;}
+}
+        #top04{margin-top: 186px; margin-left: 532px;}
+}//end main
+footer{
+    #ft{width: 1920px; }
+}

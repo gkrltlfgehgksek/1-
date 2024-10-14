@@ -1,0 +1,100 @@
+main {
+  position: relative;
+  width: 1920px;
+}
+main #top01 {
+  border: 1px solid rgba(255, 255, 255, 0);
+  height: 964px;
+}
+main #top01 .ser_menu02 {
+  position: absolute;
+  top: 120px;
+  left: 538px;
+}
+main #top01 #banner {
+  position: absolute;
+  top: 214px;
+  left: 538px;
+  right: 278px;
+  width: 100%;
+  height: 429px;
+}
+main #top01 #ser_menu {
+  width: 320px;
+  height: 795px;
+  margin-left: 7%;
+  margin-top: 113px;
+}
+main #top01 #text {
+  position: relative;
+}
+main #top01 #text .st {
+  position: absolute;
+  bottom: 20px;
+  left: 500px;
+  border: 1px solid rgba(255, 255, 255, 0);
+  transform: scale(80%);
+}
+main #top01 #text .tt {
+  font-size: 20px;
+  color: #333;
+}
+main #top01 #text .tt .t01 {
+  margin-top: 20px;
+}
+main #st01 {
+  position: relative;
+}
+main #st01 ul {
+  position: absolute;
+  top: -300px;
+  right: 278px;
+}
+main #st01 li {
+  padding-bottom: 20px;
+  line-height: 25px;
+  font-size: 20px;
+}
+main #top02 {
+  padding-top: 130px;
+  border: 1px solid red;
+}
+main #top02 h3 {
+  font-size: 40px;
+  font-weight: bold;
+  padding-bottom: 89px;
+  margin-left: 1059px;
+}
+main #top02 .misson {
+  margin-left: 565px;
+  padding-bottom: 85px;
+}
+main #top02 .misson li p {
+  font-size: 31px;
+  font-weight: bold;
+}
+main #top02 .vison {
+  margin-left: 565px;
+}
+main #top02 .vison li p {
+  font-size: 31px;
+  font-weight: bold;
+}
+main #top03 {
+  position: relative;
+  left: 342px;
+  margin-top: 186px;
+}
+main #top03 p {
+  font-size: 31px;
+  font-weight: bold;
+  margin-left: 190px;
+}
+main #top04 {
+  margin-top: 186px;
+  margin-left: 532px;
+}
+
+footer #ft {
+  width: 1920px;
+}
